@@ -30,10 +30,10 @@ Libraries Involved:
 
 Steps Involved:
 
-Load the Fake news and True News Dataset
-Data Cleaning
-Data Analysis
-Modeling 
+1. Load the Fake news and True News Dataset 
+2. Data Cleaning 
+3. Data Analysis 
+4. Modeling 
 
 Conclusion: 
 
